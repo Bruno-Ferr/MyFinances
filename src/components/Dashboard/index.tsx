@@ -29,7 +29,6 @@ export function Dashboard() {
                 <CategoryGraphic />
             )}
             
-           
         </Container>
     );
 }

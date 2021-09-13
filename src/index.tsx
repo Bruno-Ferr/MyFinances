@@ -27,6 +27,22 @@ createServer({
           category: 'Comida',
           amount: 100,
           createdAt: new Date('2021-02-14 12:00:00'),
+        },
+        {
+          id: 3,
+          title: 'Jantar',
+          type: 'withdraw',
+          category: 'Comida',
+          amount: 200,
+          createdAt: new Date('2021-02-22 09:00:00'),
+        },
+        {
+          id: 4,
+          title: 'Aposta',
+          type: 'deposit',
+          category: 'SenXG2',
+          amount: 50,
+          createdAt: new Date('2021-09-10 09:00:00'),
         }
       ],
     })
